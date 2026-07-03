@@ -96,19 +96,6 @@ A full before/after comparison table and per-service remediation detail is inclu
 
 ---
 
-## 📁 Repository Structure
-
-.
-
-├── report/
-
-│   └── METASPLOITABLE\_AMRANI\_BOUAZZAOUI\_LASRI\_TAIBI\_RHOUL.pdf   \# Full audit report
-
-├── evidence/                                                     \# Screenshots / tool outputs (per vulnerability)
-
-└── README.md
-
----
 
 ## 📖 Report Contents
 
@@ -129,8 +116,3 @@ The full PDF report (86 pages) includes:
 
 This project was carried out strictly for educational purposes on an intentionally vulnerable virtual machine, in an isolated lab network. No real-world systems were targeted. Metasploitable 2 must never be exposed to an untrusted network.
 
----
-
-## 📄 License
-
-Academic project — for educational reference only.  
